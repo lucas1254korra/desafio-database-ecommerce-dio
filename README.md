@@ -4,7 +4,7 @@ Projeto desenvolvido para o desafio de modelagem de banco de dados do **Bootcamp
 
 ## 👨‍💻 Analista
 - **Nome:** Lucas Santos
-- **LinkedIn:** [(https://www.linkedin.com/in/lucas-santos-3ab322294/)]
+- **LinkedIn:** [Linkedin (https://www.linkedin.com/in/lucas-santos-3ab322294/)]
 
 ---
 
